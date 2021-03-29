@@ -1,0 +1,10 @@
+C:\Users\Michelle Calderon\source\repos\LasTablas\LasTablas\bin\Debug\LasTablas.exe.config
+C:\Users\Michelle Calderon\source\repos\LasTablas\LasTablas\bin\Debug\LasTablas.exe
+C:\Users\Michelle Calderon\source\repos\LasTablas\LasTablas\bin\Debug\LasTablas.pdb
+C:\Users\Michelle Calderon\source\repos\LasTablas\LasTablas\obj\Debug\LasTablas.csprojAssemblyReference.cache
+C:\Users\Michelle Calderon\source\repos\LasTablas\LasTablas\obj\Debug\LasTablas.Properties.Resources.resources
+C:\Users\Michelle Calderon\source\repos\LasTablas\LasTablas\obj\Debug\LasTablas.csproj.GenerateResource.cache
+C:\Users\Michelle Calderon\source\repos\LasTablas\LasTablas\obj\Debug\LasTablas.csproj.CoreCompileInputs.cache
+C:\Users\Michelle Calderon\source\repos\LasTablas\LasTablas\obj\Debug\LasTablas.exe
+C:\Users\Michelle Calderon\source\repos\LasTablas\LasTablas\obj\Debug\LasTablas.pdb
+C:\Users\Michelle Calderon\source\repos\LasTablas\LasTablas\obj\Debug\LasTablas.Tables.resources
